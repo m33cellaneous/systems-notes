@@ -30,4 +30,6 @@ why so many places push ai to the forefront of certain tasks (cost-savings), whe
 ## Open Questions
 
 - not so relevant to C, but when and where is ai successfully implemented (in a front-facing role)?
-- 
+
+* edit *
+- the problem sets, for the most part, are straightforward. i had to brute-force a rather inelegant solution for the final "credit" problem set. would have liked to have had a more elegant solution explained (other than asking ai).
