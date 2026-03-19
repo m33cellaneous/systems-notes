@@ -4,6 +4,10 @@ a living collection of notes, diagrams, and reflections developed while studying
 this is not a set of course summaries or tutorials.  
 instead, it captures how my understanding of systems evolves over time--particularly where real-world constraints matter.
 
+status: in progress
+
+---
+
 ## Purpose
 the goal:
 - clear, written thinking about complex technical systems
