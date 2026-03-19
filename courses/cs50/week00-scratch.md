@@ -1,5 +1,9 @@
 # Week 00 — Scratch
 
+status: complete
+
+---
+
 ## Initial Reaction
 i have a vague memory of Scratch... from hackerspace friends (parents) teaching their kids.
 
