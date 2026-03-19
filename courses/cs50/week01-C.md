@@ -1,5 +1,9 @@
 # Notes on C (CS50)
 
+status: complete
+
+---
+
 ## Understanding C Programming
 
 i've learned c++ in the past, without knowing the difference with c.  
